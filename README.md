@@ -4,3 +4,4 @@ hello hai
 goodmorning
 how are you
 happy thursday
+friday
